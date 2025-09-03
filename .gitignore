@@ -1,0 +1,46 @@
+node_modules
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.sqlite3
+*.db
+
+# Environment
+.env
+.env.*
+
+# Node.js / Next.js
+node_modules/
+.next/
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+
+# Coverage and testing
+coverage/
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.coverage
+
+# Duplicate entry removed
+# .pytest_cache/ (already listed above)
